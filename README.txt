@@ -1,3 +1,5 @@
+Purpose of the program to calculate the simultaneity work coefficient of electrical equipment in housholds depending on the quantity
+ and type of housholds evaluated. For details please see .ppt presentation.
 
 1) prepare enviroment:
 -install anaconda (https://docs.anaconda.com/anaconda/install/windows/)
